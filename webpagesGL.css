@@ -1,0 +1,37 @@
+/*
+ *Name: Adrian Buie
+ *UnityID: aabuie
+ *Date: 4/13/18
+ *Assignment: Guided Lab
+ *Description: Follow guided lab instructions
+ 
+ */
+
+p {
+	font-family: Times ;
+	font-size: 16px;
+	color: #FFFFFF;
+	
+
+
+  }
+
+
+
+
+#photo-resize {
+
+	max-width: 200px ;
+	max-height: 250px;
+
+	}
+
+
+
+
+
+.table-border {
+
+	border: 1px solid#FFFFFF ;
+       
+       }
